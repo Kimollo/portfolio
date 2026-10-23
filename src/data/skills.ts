@@ -24,6 +24,7 @@ export const skillGroups: SkillGroup[] = [
       { name: 'Next.js', level: 'used' },
       { name: 'HTML', level: 'used' },
       { name: 'CSS', level: 'used' },
+      { name: 'Tailwind CSS', level: 'used' },
     ],
   },
   {
