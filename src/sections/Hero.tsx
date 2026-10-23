@@ -27,6 +27,9 @@ export function Hero() {
             From support desks and campus labs to shipping full-stack apps — practical software with clear
             purpose.
           </p>
+          <p className="animate-fade-up animate-delay-2 mt-3 max-w-lg text-sm text-paper-muted md:text-base">
+            Open to junior Java backend and full-stack roles in South Africa or remote.
+          </p>
 
           <div className="animate-fade-up animate-delay-3 mt-8 flex flex-wrap gap-3">
             <a
