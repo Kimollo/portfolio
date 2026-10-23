@@ -29,6 +29,7 @@ export const projects: Project[] = [
     tags: ['Full-stack', 'Backend'],
     repoUrl: 'https://github.com/Kimollo/helpdesk-system',
     liveUrl: 'https://helpdesk-system-snowy.vercel.app',
+    screenshot: '/helpdesk-system.png',
   },
   {
     id: 'market-analytics-dashboard',
@@ -39,6 +40,7 @@ export const projects: Project[] = [
     tags: ['Frontend'],
     repoUrl: 'https://github.com/Kimollo/market-analytics-dashboard',
     liveUrl: 'https://market-analytics-dashboard-three.vercel.app',
+    screenshot: '/market-analytics-dashboard.png',
   },
   {
     id: 'sterling-barber-store',
@@ -49,6 +51,7 @@ export const projects: Project[] = [
     tags: ['Frontend'],
     repoUrl: 'https://github.com/Kimollo/Sterling-Barber-Store',
     liveUrl: 'https://sterling-row-barbers.netlify.app/',
+    screenshot: '/sterling-barber-store.png',
   },
 ]
 
