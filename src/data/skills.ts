@@ -6,9 +6,8 @@ export const skillGroups: SkillGroup[] = [
     items: [
       { name: 'Java', level: 'used' },
       { name: 'JavaScript', level: 'used' },
-      { name: 'Python', level: 'used' },
       { name: 'SQL', level: 'used' },
-      { name: 'TypeScript', level: 'learning' },
+      { name: 'TypeScript', level: 'used' },
     ],
   },
   {

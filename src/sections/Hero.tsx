@@ -12,7 +12,7 @@ export function Hero() {
       <div className="mx-auto grid min-h-[calc(100svh-5rem)] max-w-6xl items-center gap-10 px-5 py-12 md:grid-cols-[1.05fr_0.95fr] md:gap-14 md:px-8 md:py-16">
         <div className="order-2 md:order-1">
           <p className="animate-fade-up font-display text-sm font-semibold tracking-[0.2em] text-accent uppercase">
-            Software developer · {profile.location}
+            Software developer · South Africa
           </p>
           <h1
             id="hero-name"

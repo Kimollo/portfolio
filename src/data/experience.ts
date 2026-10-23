@@ -35,10 +35,6 @@ export const education: EducationItem[] = [
     institution: 'Tshwane University of Technology (TUT)',
     year: '2022',
   },
-  {
-    credential: 'National Senior Certificate (Matric)',
-    institution: 'Mmamolope Senior Secondary School',
-  },
 ]
 
 export const certifications: Certification[] = [

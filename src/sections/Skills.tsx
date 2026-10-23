@@ -5,11 +5,7 @@ export function Skills() {
   return (
     <section id="skills" className="scroll-mt-24 border-t border-line bg-ink-raised/60" aria-labelledby="skills-heading">
       <div className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
-        <SectionHeading
-          eyebrow="Skills"
-          title="Tools I work with"
-          description="Skills marked Learning are actively in progress — not claimed as production fluency."
-        />
+        <SectionHeading eyebrow="Skills" title="Tools I work with" />
         <h3 id="skills-heading" className="sr-only">
           Skill groups
         </h3>
@@ -26,11 +22,6 @@ export function Skills() {
                     className="inline-flex items-center gap-2 rounded-md border border-line bg-ink-raised px-3 py-1.5 text-sm text-paper"
                   >
                     {item.name}
-                    {item.level === 'learning' ? (
-                      <span className="rounded bg-accent/15 px-1.5 py-0.5 text-[0.65rem] font-semibold tracking-wide text-accent uppercase">
-                        Learning
-                      </span>
-                    ) : null}
                   </li>
                 ))}
               </ul>
