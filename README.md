@@ -2,6 +2,7 @@
 
 Personal software developer portfolio for [Kimollo Hlakola](https://github.com/Kimollo).
 
+**Live:** https://portfolio-kimollo.vercel.app  
 **Stack:** Vite · React · TypeScript · Tailwind CSS
 
 ## Scripts
