@@ -4,7 +4,7 @@ export const experience: ExperienceRole[] = [
   {
     title: 'IT Technician',
     organization: 'Capricorn TVET College',
-    dates: 'Dec 2023 – Dec 2024',
+    dates: 'Dec 2023 – July 2024',
     bullets: [
       'Installed and configured software applications.',
       'Provided IT support to staff and students.',

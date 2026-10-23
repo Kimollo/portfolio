@@ -48,7 +48,7 @@ export function Contact() {
         <SectionHeading
           eyebrow="Contact"
           title="Let’s talk"
-          description="Reach out directly — no contact form. Email or phone is fine for opportunities and collaboration."
+          description="Reach out directly. Email or phone is fine for opportunities and collaboration."
         />
         <h3 id="contact-heading" className="sr-only">
           Contact details
