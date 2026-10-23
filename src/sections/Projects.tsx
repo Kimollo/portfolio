@@ -14,11 +14,7 @@ export function Projects() {
   return (
     <section id="projects" className="scroll-mt-24 border-t border-line" aria-labelledby="projects-heading">
       <div className="mx-auto max-w-6xl px-5 py-20 md:px-8 md:py-28">
-        <SectionHeading
-          eyebrow="Projects"
-          title="Featured work"
-          description="Selected public repositories with truthful blurbs from each README. Screenshots are included where available."
-        />
+        <SectionHeading eyebrow="Projects" title="Featured work" />
 
         <div
           className="mb-8 flex flex-wrap gap-2"
